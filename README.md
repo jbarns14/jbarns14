@@ -1,5 +1,7 @@
 # Jake Barnabe
-[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Flinkedin-logo-on-a-transparent-background-vector-editorial%2F396561934&psig=AOvVaw0INd0R8uyJoj0SW1Lt3CNB&ust=1708902553149000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOj84Z6MxYQDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/jake-barnabe/) [Email](jake.barnabe@queensu.ca)
+[![LinkedIn](/Users/jakebarnabe/Desktop/School/Master's/Career Prep/Github profile/linkedin_logo.png)](https://www.linkedin.com/in/jake-barnabe/) 
+
+[Email](jake.barnabe@queensu.ca)
 
 ### Hi! Welcome to my GitHub profile!
 
