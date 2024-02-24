@@ -1,5 +1,5 @@
 # Jake Barnabe
-[![LinkedIn](/Users/jakebarnabe/Desktop/School/Master's/Career Prep/Github profile/linkedin_logo.png)](https://www.linkedin.com/in/jake-barnabe/) 
+[![LinkedIn logo](https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg)](https://www.linkedin.com/in/jake-barnabe/)
 
 [Email](jake.barnabe@queensu.ca)
 
