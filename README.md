@@ -1,6 +1,8 @@
 # Jake Barnabe
+[LinkedIn](https://www.linkedin.com/in/jake-barnabe/) [Email](jake.barnabe@queensu.ca)
 
-## Hi! Welcome to my GitHub profile!
+### Hi! Welcome to my GitHub profile!
+
 
 ### A little about me...
 
