@@ -1,7 +1,13 @@
 # Jake Barnabe
-[![LinkedIn logo](https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg)](https://www.linkedin.com/in/jake-barnabe/)
+<a href="https://www.linkedin.com/in/jake-barnabe/">
+    <img src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" width="40" height="40">
+</a>
 
-[Email](jake.barnabe@queensu.ca)
+<a href="jake.barnabe@queensu.ca">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png" width="40" height="40">
+</a>
+
+
 
 ### Hi! Welcome to my GitHub profile!
 
