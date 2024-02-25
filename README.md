@@ -3,7 +3,7 @@
     <img src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" width="40" height="40">
 </a>
 
-<a href="jake.barnabe@queensu.ca">
+<a href="mailto:jake.barnabe@queensu.ca">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png" width="40" height="40">
 </a>
 
